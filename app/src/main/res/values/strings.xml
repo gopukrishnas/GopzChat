@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GopzChat</string>
+    <string name="tap_to_chat">Tap to chat..</string>
+    <string name="accessibility_service_label">GopzChat</string>
+    <string name="accessibility_service_description">Enable this to receive notifications.</string>
+    <string name="instruction">Got to Settings -> Accessibility -> Turn GopzChat on</string>
+    <string name="codeWord">until1</string>
+</resources>

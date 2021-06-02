@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "530688696881",
+    "project_id": "gopzchat",
+    "storage_bucket": "gopzchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:530688696881:android:f7c6e2977834dfb11b2b10",
+        "android_client_info": {
+          "package_name": "com.example.gopzchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "530688696881-9cijlg45fp7ht3521712tlg5tv9jbs3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyxx0f_ArgL4TmEiLImY6FuVflXdRvXrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "530688696881-9cijlg45fp7ht3521712tlg5tv9jbs3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
